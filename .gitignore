@@ -1,5 +1,20 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Model files
 *.pt
+
+# Environments
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
 .DS_Store
-.vscode/
+Thumbs.db
