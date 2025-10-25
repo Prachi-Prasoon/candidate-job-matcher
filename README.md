@@ -25,18 +25,8 @@ A **semantic job-matching chatbot** that helps candidates find the most relevant
 
 ## Folder Structure
 
-candidate-job-matcher/
-│
-├── data/
-│ └── jobs.json # Job postings (50+ diverse roles)
-│
-├── src/
-│ ├── app.py # Main Gradio app
-│ ├── build_index.py # Build embeddings from jobs.json
-│ ├── utils.py # Utilities: embeddings & job matching
-│ └── job_embeddings.pt # Saved embeddings (auto-generated)
-│
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+<img width="514" height="347" alt="image" src="https://github.com/user-attachments/assets/84c2e708-7fa8-497a-92cf-189d54a7489b" />
+
+
 
 
