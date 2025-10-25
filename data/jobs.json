@@ -1,0 +1,214 @@
+[
+    {
+        "title": "Software Engineer",
+        "description": "Develop and maintain software applications using Python, Java, JavaScript. Work on full-stack development, APIs, and backend services."
+    },
+    {
+        "title": "Frontend Developer",
+        "description": "Build responsive and interactive web interfaces using HTML, CSS, JavaScript, and frameworks like React or Angular."
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Design and maintain server-side applications and databases using Node.js, Python, Java, SQL, and cloud services."
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Implement CI/CD pipelines, automate deployments, monitor cloud infrastructure, and ensure system reliability using AWS, Docker, and Kubernetes."
+    },
+    {
+        "title": "Data Scientist",
+        "description": "Analyze data, build predictive models, and perform statistical analysis using Python, R, SQL, and machine learning techniques."
+    },
+    {
+        "title": "AI Researcher",
+        "description": "Conduct research in machine learning, deep learning, natural language processing, and AI algorithms for academic or industrial projects."
+    },
+    {
+        "title": "Business Analyst",
+        "description": "Gather and analyze business requirements, create reports, and provide insights to support strategic decision-making."
+    },
+    {
+        "title": "Product Manager",
+        "description": "Define product strategy, prioritize features, coordinate with design and engineering teams, and ensure successful product launches."
+    },
+    {
+        "title": "UX/UI Designer",
+        "description": "Design intuitive user experiences and interfaces using Figma, Sketch, Adobe XD, and user research techniques."
+    },
+    {
+        "title": "Graphic Designer",
+        "description": "Create visual content for digital and print media using Photoshop, Illustrator, and Canva, following brand guidelines."
+    },
+    {
+        "title": "Content Writer",
+        "description": "Write blogs, articles, marketing content, and SEO-optimized material for websites, social media, and campaigns."
+    },
+    {
+        "title": "Marketing Analyst",
+        "description": "Analyze marketing campaigns, track KPIs, perform customer segmentation, and provide actionable insights using Google Analytics and Excel."
+    },
+    {
+        "title": "SEO Specialist",
+        "description": "Optimize website content for search engines, perform keyword research, and track performance metrics."
+    },
+    {
+        "title": "Financial Analyst",
+        "description": "Analyze financial statements, build models, prepare reports, and advise on investments or budgeting decisions."
+    },
+    {
+        "title": "Accountant",
+        "description": "Manage financial records, perform audits, and ensure compliance with accounting standards using accounting software like Tally or QuickBooks."
+    },
+    {
+        "title": "Healthcare Analyst",
+        "description": "Analyze medical and operational data in hospitals, perform reporting, and support healthcare management decisions."
+    },
+    {
+        "title": "Clinical Researcher",
+        "description": "Design and conduct clinical trials, analyze medical data, and ensure compliance with regulatory standards."
+    },
+    {
+        "title": "Research Scientist",
+        "description": "Conduct academic or industrial research, perform experiments, analyze results, and publish findings in journals."
+    },
+    {
+        "title": "Lab Technician",
+        "description": "Support experiments and research in laboratories, maintain equipment, and document results accurately."
+    },
+    {
+        "title": "Operations Manager",
+        "description": "Oversee daily operations, optimize processes, manage teams, and ensure business efficiency."
+    },
+    {
+        "title": "Project Manager",
+        "description": "Plan, execute, and close projects on time and budget, coordinate teams, and manage resources and risks."
+    },
+    {
+        "title": "Human Resources Manager",
+        "description": "Manage recruitment, employee relations, performance evaluations, and HR policies."
+    },
+    {
+        "title": "Recruiter",
+        "description": "Source, interview, and hire candidates for various roles, manage job postings, and maintain applicant tracking systems."
+    },
+    {
+        "title": "Sales Executive",
+        "description": "Generate leads, manage client relationships, and drive sales targets in assigned regions or sectors."
+    },
+    {
+        "title": "Account Manager",
+        "description": "Manage client accounts, ensure customer satisfaction, and identify upselling opportunities."
+    },
+    {
+        "title": "Customer Support Specialist",
+        "description": "Provide support to customers via chat, email, or phone, resolve issues, and maintain service quality."
+    },
+    {
+        "title": "IT Support Engineer",
+        "description": "Troubleshoot hardware and software issues, maintain IT systems, and provide technical support to employees."
+    },
+    {
+        "title": "Cybersecurity Analyst",
+        "description": "Monitor security systems, identify vulnerabilities, perform penetration testing, and implement security protocols."
+    },
+    {
+        "title": "Cloud Engineer",
+        "description": "Design and manage cloud infrastructure, deploy scalable applications, and ensure system reliability on platforms like AWS, Azure, or GCP."
+    },
+    {
+        "title": "Mobile App Developer",
+        "description": "Develop mobile applications for Android and iOS using Kotlin, Swift, or React Native."
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Manage CI/CD pipelines, automate deployments, monitor infrastructure, and maintain cloud systems."
+    },
+    {
+        "title": "Game Developer",
+        "description": "Develop interactive games using Unity or Unreal Engine, program game logic, and optimize performance."
+    },
+    {
+        "title": "Blockchain Developer",
+        "description": "Design and develop decentralized applications using blockchain technologies like Ethereum, Solidity, and smart contracts."
+    },
+    {
+        "title": "AI Ethics Specialist",
+        "description": "Research and develop ethical AI frameworks, ensure responsible AI deployment, and assess societal impact."
+    },
+    {
+        "title": "Social Media Manager",
+        "description": "Manage social media accounts, create engaging content, run campaigns, and analyze metrics."
+    },
+    {
+        "title": "Video Editor",
+        "description": "Edit videos for marketing, social media, or entertainment using Adobe Premiere, Final Cut Pro, or DaVinci Resolve."
+    },
+    {
+        "title": "Event Manager",
+        "description": "Plan and execute events, coordinate vendors, manage budgets, and ensure a seamless experience."
+    },
+    {
+        "title": "Teacher / Educator",
+        "description": "Teach and mentor students, design curriculum, and create learning materials in schools, colleges, or online platforms."
+    },
+    {
+        "title": "University Lecturer",
+        "description": "Deliver lectures, guide student research, and publish academic work in universities or higher education institutions."
+    },
+    {
+        "title": "PhD Researcher",
+        "description": "Conduct independent research, write academic papers, and contribute to scientific knowledge in a specialized domain."
+    },
+    {
+        "title": "Clinical Psychologist",
+        "description": "Provide mental health therapy, perform assessments, and create treatment plans for patients."
+    },
+    {
+        "title": "Data Engineer",
+        "description": "Design, build, and maintain data pipelines, databases, and ETL processes for large-scale analytics."
+    },
+    {
+        "title": "QA Engineer",
+        "description": "Test software applications, write test cases, perform automated testing, and ensure product quality."
+    },
+    {
+        "title": "DevRel / Developer Advocate",
+        "description": "Engage with developer communities, create technical content, and provide feedback to product teams."
+    },
+    {
+        "title": "Legal Counsel",
+        "description": "Provide legal advice, review contracts, ensure compliance with laws and regulations."
+    },
+    {
+        "title": "Technical Writer",
+        "description": "Create technical documentation, user manuals, and API guides for software products."
+    },
+    {
+        "title": "Operations Analyst",
+        "description": "Analyze business processes, identify inefficiencies, and recommend operational improvements."
+    },
+    {
+        "title": "Supply Chain Manager",
+        "description": "Manage logistics, procurement, and supply chain operations to ensure timely delivery and cost efficiency."
+    },
+    {
+        "title": "Pharmacist",
+        "description": "Dispense medications, counsel patients, and ensure proper pharmaceutical care."
+    },
+    {
+        "title": "Research Assistant",
+        "description": "Support research projects, collect and analyze data, and assist with experiments."
+    },
+    {
+        "title": "Quality Assurance Manager",
+        "description": "Oversee QA processes, maintain standards, and ensure product compliance with regulations."
+    },
+    {
+        "title": "AI Product Manager",
+        "description": "Define AI product roadmap, coordinate with engineering and research teams, and deliver AI solutions to market."
+    },
+    {
+        "title": "UX Researcher",
+        "description": "Conduct user research, usability testing, and analyze data to improve product experiences."
+    }
+]
