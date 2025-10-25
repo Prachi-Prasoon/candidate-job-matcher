@@ -29,4 +29,43 @@ A **semantic job-matching chatbot** that helps candidates find the most relevant
 
 
 
+---
+
+## Installation & Setup
+
+1. **Clone the repository**
+
+2. **Create a virtual environment (recommended)**
+
+python -m venv venv
+**Windows**
+venv\Scripts\activate
+**macOS/Linux**
+source venv/bin/activate
+
+
+3. **Install dependencies**
+
+pip install -r requirements.txt
+
+
+## How to Run
+
+1. **Build embeddings:**
+
+python src/build_index.py
+
+2. **Launch the Gradio app:**
+
+python src/app.py
+
+3. **Use the app:**
+
+a. Paste your resume or skills into the input box.
+
+b. Select the number of top matches to display.
+
+c. Click Search to see recommended jobs along with similarity scores.
+
+
 
