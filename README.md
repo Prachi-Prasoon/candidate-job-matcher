@@ -84,11 +84,12 @@ Top Matches Output:
 
 ## Key Features
 
-1. Demonstrates semantic NLP matching using embeddings.
+- Demonstrates semantic NLP matching using embeddings.
 
-2. Shows end-to-end project skills: data processing → embeddings → similarity search → web UI.
+- Shows end-to-end project skills: data processing → embeddings → similarity search → web UI.
 
-3. Lightweight and fully offline: no external API keys required.
+- Lightweight and fully offline: no external API keys required.
 
-4. Easily extendable: add more job postings or change the model for higher accuracy.
+- Easily extendable: add more job postings or change the model for higher accuracy.
+
 
