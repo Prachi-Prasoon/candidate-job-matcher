@@ -38,8 +38,10 @@ A **semantic job-matching chatbot** that helps candidates find the most relevant
 2. **Create a virtual environment (recommended)**
 
 python -m venv venv
+
 **Windows**
 venv\Scripts\activate
+
 **macOS/Linux**
 source venv/bin/activate
 
@@ -68,4 +70,25 @@ b. Select the number of top matches to display.
 c. Click Search to see recommended jobs along with similarity scores.
 
 
+## Example Usage
+
+Candidate Input:
+"Experienced Python developer with knowledge of machine learning and APIs."
+
+Top Matches Output:
+1. Software Engineer (Score: 0.532)
+   Develop and maintain software applications using Python, Java, JavaScript...
+2. Data Analyst (Score: 0.499)
+   Analyze datasets, build ML models, and generate insights...
+
+
+## Key Features
+
+1. Demonstrates semantic NLP matching using embeddings.
+
+2. Shows end-to-end project skills: data processing → embeddings → similarity search → web UI.
+
+3. Lightweight and fully offline: no external API keys required.
+
+4. Easily extendable: add more job postings or change the model for higher accuracy.
 
